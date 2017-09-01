@@ -1,0 +1,51 @@
+.slides
+{
+  font-family: 'Cinzel Decorative'!important;
+}
+ul li
+{
+  margin-top: 3%!important;
+  font-size: 0.8em!important;
+}
+.imgs
+{
+  width: 50%!important;
+  background-color: rgba(255,255,255,0)!important;
+  box-shadow: 0px 0px 0px!important;
+}
+.imgs2
+{
+  width: 50%!important;
+  background-color: rgba(255,255,255,0)!important;
+}
+.hg
+{
+  font-size: 0.7em!important;
+  font-family: 'Cinzel Decorative'!important;
+  text-transform: lowercase!important;
+  font-weight: 400!important;
+}
+section
+{
+  overflow: hidden!important;
+}
+.dois
+{
+  background-color: rgb(182, 206, 235)!important;
+
+}
+.seis
+{
+
+}
+.mapa
+{
+  width: 40%!important;
+  box-shadow: 0px 0px 0px!important;
+  transition: all 0.7s linear!important;
+
+}
+.mapa:hover
+{
+  transform: scale(3.1) translate(50px, 25px)!important;
+}
